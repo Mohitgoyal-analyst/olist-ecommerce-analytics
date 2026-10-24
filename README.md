@@ -54,7 +54,7 @@ The live `.pbix` file exceeds GitHub's file size limit and is hosted externally:
 
 **[Download the full interactive Power BI dashboard (Google Drive)](https://drive.google.com/file/d/147RkpVVmbg2__ZqvatgbQnnjvxKvtd9C/view?usp=drive_link)**
 
-A static PDF export of all 3 pages is also included directly in this repo under `powerbi/` for quick viewing without downloading anything.
+A static PDF export of all 3 pages is also included in this repo (`dashboard_pdf.pdf`) for quick viewing without downloading anything..
 
 ## Tools
 
