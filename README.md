@@ -24,7 +24,7 @@ Olist is a Brazilian e-commerce marketplace connecting small sellers to major re
 ├── sql/
 │   ├── rfm_segmentation.sql     # RFM calculation + segmentation (rfm_segments view)
 │   └── segment_summary_by_state.sql  # Segment mix by state (rfm_segments_by_state view)
-├── dashboard.pdf             # Static export of all 3 dashboard pages  
+├── dashboard_pdf.pdf             # Static export of all 3 dashboard pages  
 └── README.md
 ```
 ## Limitations
