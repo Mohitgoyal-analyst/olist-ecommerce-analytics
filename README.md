@@ -20,13 +20,11 @@ Olist is a Brazilian e-commerce marketplace connecting small sellers to major re
 ## Project Structure
 
 ```
-├── notebooks/
-│   └── olist_eda.ipynb          # Full exploratory data analysis
+├── olist_eda.ipynb          # Full exploratory data analysis
 ├── sql/
 │   ├── rfm_segmentation.sql     # RFM calculation + segmentation (rfm_segments view)
 │   └── segment_summary_by_state.sql  # Segment mix by state (rfm_segments_by_state view)
-├── powerbi/
-│   └── dashboard.pdf             # Static export of all 3 dashboard pages
+├── dashboard.pdf             # Static export of all 3 dashboard pages  
 └── README.md
 ```
 ## Limitations
